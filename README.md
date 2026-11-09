@@ -6,9 +6,12 @@ This folder is meant to be pushed to a **separate public GitHub repo** (`mehmets
 
 ## What it contains
 
-- Plugin manifest + skills that teach Claude how to use Deqra
+- Plugin manifest + **authoring skill** (tool map, credits, happy-path examples)
+- Slash commands: `deqra-build`, `deqra-open`, `deqra-propose`, `deqra-export`
 - Remote MCP reference to `https://mcp.deqra.ai/` (URL only)
 - License
+
+The paint engine and Spring app stay private — this repo is packaging + guidance only.
 
 ## Install / listing
 
