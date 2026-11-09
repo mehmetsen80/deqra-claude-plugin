@@ -1,0 +1,14 @@
+{
+  "name": "deqra",
+  "version": "0.1.0",
+  "description": "Create, edit, propose, and export Deqra presentations, documents, drawings, and pages via hosted MCP at mcp.deqra.ai.",
+  "author": {
+    "name": "Deqra",
+    "email": "msen@deqra.ai",
+    "url": "https://deqra.ai"
+  },
+  "homepage": "https://deqra.ai/docs/claude",
+  "repository": "https://github.com/mehmetsen80/deqra-claude-plugin",
+  "license": "MIT",
+  "keywords": ["deqra", "mcp", "presentations", "documents", "drawings", "pages", "export"]
+}

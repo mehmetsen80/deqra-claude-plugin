@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deqra": {
+      "type": "http",
+      "url": "https://mcp.deqra.ai/"
+    }
+  }
+}
